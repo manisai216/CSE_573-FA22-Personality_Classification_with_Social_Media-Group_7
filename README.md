@@ -18,6 +18,8 @@ Steps to Run:
 
 1. Clone Repository to local system
 
+2. Download three files (users.csv, users-likes.csv, likes.csv) from the given dataset link above and place the three files in the repo's Data folder. 
+
 2. Download and install R in your system
 
 3. In your terminal, go to the Code folder and run the following code files:
